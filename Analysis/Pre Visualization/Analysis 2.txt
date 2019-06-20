@@ -1,0 +1,128 @@
+Python 3.7.2 (tags/v3.7.2:9a3ffc0492, Dec 23 2018, 22:20:52) [MSC v.1916 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:/Users/Hp/OneDrive/MCA/Sem 4/Data Science Project/data.csv/Nationa Wise players.py 
+>>> ages = list(players["Age"])
+>>> len(ages)
+18207
+>>> py
+Traceback (most recent call last):
+  File "<pyshell#2>", line 1, in <module>
+    py
+NameError: name 'py' is not defined
+>>> g
+<module 'pylab' from 'C:\\Users\\Hp\\AppData\\Local\\Programs\\Python\\Python37-32\\lib\\site-packages\\pylab.py'>
+>>> g.hist(ages)
+(array([1.063e+03, 3.687e+03, 4.030e+03, 3.868e+03, 2.977e+03, 1.689e+03,
+       7.270e+02, 1.440e+02, 1.900e+01, 3.000e+00]), array([16. , 18.9, 21.8, 24.7, 27.6, 30.5, 33.4, 36.3, 39.2, 42.1, 45. ]), <a list of 10 Patch objects>)
+>>> g.show()
+>>> g.hist(wights=0.55)
+Traceback (most recent call last):
+  File "<pyshell#6>", line 1, in <module>
+    g.hist(wights=0.55)
+TypeError: hist() missing 1 required positional argument: 'x'
+>>> g.hist(ages,weights=1)
+Traceback (most recent call last):
+  File "<pyshell#7>", line 1, in <module>
+    g.hist(ages,weights=1)
+  File "C:\Users\Hp\AppData\Local\Programs\Python\Python37-32\lib\site-packages\matplotlib\pyplot.py", line 2661, in hist
+    **({"data": data} if data is not None else {}), **kwargs)
+  File "C:\Users\Hp\AppData\Local\Programs\Python\Python37-32\lib\site-packages\matplotlib\__init__.py", line 1810, in inner
+    return func(ax, *args, **kwargs)
+  File "C:\Users\Hp\AppData\Local\Programs\Python\Python37-32\lib\site-packages\matplotlib\axes\_axes.py", line 6555, in hist
+    'weights should have the same shape as x')
+ValueError: weights should have the same shape as x
+>>> g.hist(ages,weight=ages)
+Traceback (most recent call last):
+  File "<pyshell#8>", line 1, in <module>
+    g.hist(ages,weight=ages)
+  File "C:\Users\Hp\AppData\Local\Programs\Python\Python37-32\lib\site-packages\matplotlib\pyplot.py", line 2661, in hist
+    **({"data": data} if data is not None else {}), **kwargs)
+  File "C:\Users\Hp\AppData\Local\Programs\Python\Python37-32\lib\site-packages\matplotlib\__init__.py", line 1810, in inner
+    return func(ax, *args, **kwargs)
+  File "C:\Users\Hp\AppData\Local\Programs\Python\Python37-32\lib\site-packages\matplotlib\axes\_axes.py", line 6781, in hist
+    p.update(kwargs)
+  File "C:\Users\Hp\AppData\Local\Programs\Python\Python37-32\lib\site-packages\matplotlib\artist.py", line 916, in update
+    ret = [_update_property(self, k, v) for k, v in props.items()]
+  File "C:\Users\Hp\AppData\Local\Programs\Python\Python37-32\lib\site-packages\matplotlib\artist.py", line 916, in <listcomp>
+    ret = [_update_property(self, k, v) for k, v in props.items()]
+  File "C:\Users\Hp\AppData\Local\Programs\Python\Python37-32\lib\site-packages\matplotlib\artist.py", line 912, in _update_property
+    raise AttributeError('Unknown property %s' % k)
+AttributeError: Unknown property weight
+>>> g.hist(ages,orientation="horizontal")
+(array([1.063e+03, 3.687e+03, 4.030e+03, 3.868e+03, 2.977e+03, 1.689e+03,
+       7.270e+02, 1.440e+02, 1.900e+01, 3.000e+00]), array([16. , 18.9, 21.8, 24.7, 27.6, 30.5, 33.4, 36.3, 39.2, 42.1, 45. ]), <a list of 10 Patch objects>)
+>>> g.show()
+>>> g.hist(ages,orientation="vertical")
+(array([1.063e+03, 3.687e+03, 4.030e+03, 3.868e+03, 2.977e+03, 1.689e+03,
+       7.270e+02, 1.440e+02, 1.900e+01, 3.000e+00]), array([16. , 18.9, 21.8, 24.7, 27.6, 30.5, 33.4, 36.3, 39.2, 42.1, 45. ]), <a list of 10 Patch objects>)
+>>> g.show()
+Traceback (most recent call last):
+  File "<pyshell#12>", line 1, in <module>
+    g.show()
+  File "C:\Users\Hp\AppData\Local\Programs\Python\Python37-32\lib\site-packages\matplotlib\pyplot.py", line 254, in show
+    return _show(*args, **kw)
+  File "C:\Users\Hp\AppData\Local\Programs\Python\Python37-32\lib\site-packages\matplotlib\backend_bases.py", line 3266, in show
+    cls.mainloop()
+  File "C:\Users\Hp\AppData\Local\Programs\Python\Python37-32\lib\site-packages\matplotlib\backends\_backend_tk.py", line 1039, in mainloop
+    managers[0].window.mainloop()
+  File "C:\Users\Hp\AppData\Local\Programs\Python\Python37-32\lib\tkinter\__init__.py", line 1283, in mainloop
+    self.tk.mainloop(n)
+KeyboardInterrupt
+>>> g.hist()
+Traceback (most recent call last):
+  File "<pyshell#13>", line 1, in <module>
+    g.hist()
+TypeError: hist() missing 1 required positional argument: 'x'
+>>> g.hist(ages,orientation="vertical")
+(array([1.063e+03, 3.687e+03, 4.030e+03, 3.868e+03, 2.977e+03, 1.689e+03,
+       7.270e+02, 1.440e+02, 1.900e+01, 3.000e+00]), array([16. , 18.9, 21.8, 24.7, 27.6, 30.5, 33.4, 36.3, 39.2, 42.1, 45. ]), <a list of 10 Patch objects>)
+>>> g.show()
+>>> g.hist(ages,[40,50,60,70])
+(array([22.,  0.,  0.]), array([40, 50, 60, 70]), <a list of 3 Patch objects>)
+>>> g.show()
+>>> g.hist([40,50,60,70],ages)
+Traceback (most recent call last):
+  File "<pyshell#18>", line 1, in <module>
+    g.hist([40,50,60,70],ages)
+  File "C:\Users\Hp\AppData\Local\Programs\Python\Python37-32\lib\site-packages\matplotlib\pyplot.py", line 2661, in hist
+    **({"data": data} if data is not None else {}), **kwargs)
+  File "C:\Users\Hp\AppData\Local\Programs\Python\Python37-32\lib\site-packages\matplotlib\__init__.py", line 1810, in inner
+    return func(ax, *args, **kwargs)
+  File "C:\Users\Hp\AppData\Local\Programs\Python\Python37-32\lib\site-packages\matplotlib\axes\_axes.py", line 6591, in hist
+    m, bins = np.histogram(x[i], bins, weights=w[i], **hist_kwargs)
+  File "C:\Users\Hp\AppData\Local\Programs\Python\Python37-32\lib\site-packages\numpy\lib\histograms.py", line 710, in histogram
+    bin_edges, uniform_bins = _get_bin_edges(a, bins, range, weights)
+  File "C:\Users\Hp\AppData\Local\Programs\Python\Python37-32\lib\site-packages\numpy\lib\histograms.py", line 369, in _get_bin_edges
+    '`bins` must increase monotonically, when an array')
+ValueError: `bins` must increase monotonically, when an array
+>>> g.hist(ages,[10,20,30,40,50,60])
+(array([ 2087., 12621.,  3477.,    22.,     0.]), array([10, 20, 30, 40, 50, 60]), <a list of 5 Patch objects>)
+>>> g.show()
+>>> g.hist(ages,[10,20,30,40,50,60])
+(array([ 2087., 12621.,  3477.,    22.,     0.]), array([10, 20, 30, 40, 50, 60]), <a list of 5 Patch objects>)
+>>> n,bins,patches = g.hist(ages,[10,20,30,40,50,60])
+>>> g.show()
+>>> g.hist(ages,[10,20,30,40,50,60])
+(array([ 2087., 12621.,  3477.,    22.,     0.]), array([10, 20, 30, 40, 50, 60]), <a list of 5 Patch objects>)
+>>> g.title("Age Histogram of Players")
+Text(0.5, 1.0, 'Age Histogram of Players')
+>>> g.xlabel("Age Class")
+Text(0.5, 0, 'Age Class')
+>>> g.ylabel("Player count")
+Text(0, 0.5, 'Player count')
+>>> g.show()
+>>> ages
+
+>>> max(ages)
+45
+>>> min(ages)
+16
+>>> g.hist(ages,range(16,46))
+(array([4.200e+01, 2.890e+02, 7.320e+02, 1.024e+03, 1.240e+03, 1.423e+03,
+       1.340e+03, 1.332e+03, 1.358e+03, 1.319e+03, 1.387e+03, 1.162e+03,
+       1.101e+03, 9.590e+02, 9.170e+02, 7.070e+02, 5.740e+02, 4.080e+02,
+       4.040e+02, 1.960e+02, 1.270e+02, 8.200e+01, 3.700e+01, 2.500e+01,
+       1.300e+01, 5.000e+00, 1.000e+00, 0.000e+00, 3.000e+00]), array([16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32,
+       33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45]), <a list of 29 Patch objects>)
+>>> g.show()

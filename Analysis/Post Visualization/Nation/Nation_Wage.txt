@@ -1,0 +1,164 @@
+England,16526
+Republic of Ireland,1835
+Japan,1651
+Chile,2024
+Wales,1560
+Canada,244
+Scotland,2281
+Germany,11548
+Sweden,1618
+China PR,1225
+Italy,9462
+Brazil,14703
+Denmark,2323
+Nigeria,1193
+Colombia,3347
+Poland,1796
+Austria,2285
+Bolivia,25
+Saudi Arabia,1740
+Finland,349
+Norway,1139
+Korea Republic,1027
+Australia,791
+United States,1503
+Mexico,3230
+Switzerland,2234
+Croatia,2732
+Turkey,3164
+FYR Macedonia,158
+Faroe Islands,16
+France,12845
+Spain,17498
+Moldova,56
+Northern Ireland,546
+Hungary,252
+Argentina,10778
+Burundi,32
+Ghana,1096
+Paraguay,775
+Senegal,1867
+South Africa,175
+Ukraine,437
+Albania,284
+Cyprus,42
+New Zealand,196
+Haiti,39
+Morocco,1262
+Venezuela,415
+Jamaica,262
+Kosovo,222
+Greece,796
+Belgium,4805
+Congo,111
+Lithuania,23
+India,0
+Trinidad & Tobago,36
+Latvia,16
+Romania,441
+Iceland,383
+Uganda,12
+Niger,11
+Netherlands,4546
+Azerbaijan,11
+Uruguay,2534
+Czech Republic,795
+Cameroon,987
+Botswana,1
+Indonesia,1
+DR Congo,716
+Bulgaria,32
+Zambia,31
+Syria,120
+Thailand,12
+Kenya,112
+Slovenia,612
+Serbia,1689
+Ivory Coast,1271
+Mali,459
+St Kitts Nevis,30
+Slovakia,594
+Russia,262
+Sierra Leone,24
+Liechtenstein,15
+Bosnia Herzegovina,907
+Portugal,4608
+Philippines,29
+Guyana,5
+Luxembourg,32
+Iraq,41
+Ecuador,478
+Korea DPR,17
+Georgia,109
+Guinea Bissau,95
+Antigua & Barbuda,10
+Gambia,122
+Algeria,1085
+Guatemala,4
+Gabon,404
+Guinea,379
+Afghanistan,5
+Tunisia,295
+Montenegro,301
+Hong Kong,3
+Curacao,124
+Benin,130
+Costa Rica,407
+Comoros,27
+Madagascar,93
+Sudan,16
+Angola,115
+Uzbekistan,18
+Barbados,11
+Belize,1
+South Sudan,2
+Cuba,13
+Estonia,50
+Malta,2
+Peru,275
+Iran,192
+Burkina Faso,193
+Egypt,523
+Tanzania,21
+Honduras,120
+Kazakhstan,8
+Mauritania,8
+Andorra,1
+Nicaragua,2
+Eritrea,12
+Armenia,220
+Montserrat,12
+Jordan,1
+Togo,192
+Puerto Rico,2
+Rwanda,2
+Qatar,1
+Bermuda,33
+El Salvador,13
+Grenada,3
+Ethiopia,1
+Dominican Republic,142
+Zimbabwe,89
+Panama,46
+St Lucia,1
+Cape Verde,219
+Namibia,10
+Suriname,12
+Israel,222
+Mozambique,44
+Palestine,2
+Lebanon,2
+Libya,19
+Guam,3
+Equatorial Guinea,86
+Chad,24
+Belarus,32
+Liberia,3
+Central African Rep.,57
+Mauritius,4
+Kuwait,13
+Fiji,4
+New Caledonia,9
+São Tomé & Príncipe,15
+Oman,12
+United Arab Emirates,39

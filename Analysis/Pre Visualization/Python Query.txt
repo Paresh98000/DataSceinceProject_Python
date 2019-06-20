@@ -1,0 +1,8 @@
+>>> players["Preferred Foot"][players["Preferred Foot"]=="Left"].count()
+4211
+>>> players["Preferred Foot"][players["Preferred Foot"]=="Right"].count()
+13948
+>>> players["Preferred Foot"][players["Preferred Foot"].isna()].count()
+48
+>>> players["ID"].count()
+18207

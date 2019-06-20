@@ -1,0 +1,27 @@
+Sub SplitNotes(delim As String, strFilename As String)
+Dim doc As Document
+Dim arrNotes
+Dim I As Long
+Dim X As Long
+Dim Response As Integer
+arrNotes = Split(ActiveDocument.Range, delim)
+Response = MsgBox("This will split the document into " & UBound(arrNotes) + 1 & " sections.Do you wish to proceed?", 4)
+If Response = 7 Then Exit Sub
+For I = LBound(arrNotes) To UBound(arrNotes)
+If Trim(arrNotes(I)) <> "" Then
+X = X + 1
+Set doc = Documents.Add
+doc.Range = arrNotes(I)
+doc.SaveAs ThisDocument.Path & "\" & strFilename & Format(X, "000")
+doc.Close True
+End If
+Next I
+End Sub
+Sub test()
+'delimiter & filename
+SplitNotes "///", "Notes "
+End Sub
+
+
+
+

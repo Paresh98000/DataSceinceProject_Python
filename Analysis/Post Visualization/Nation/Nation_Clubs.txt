@@ -1,0 +1,164 @@
+England,1613
+Germany,1190
+Spain,1072
+Argentina,936
+France,913
+Brazil,826
+Italy,696
+Colombia,611
+Japan,470
+Netherlands,453
+Sweden,388
+Chile,387
+Mexico,363
+China PR,363
+United States,349
+Poland,342
+Republic of Ireland,338
+Norway,334
+Saudi Arabia,333
+Korea Republic,333
+Portugal,322
+Denmark,314
+Turkey,300
+Austria,296
+Scotland,281
+Belgium,260
+Australia,231
+Switzerland,219
+Uruguay,149
+Senegal,129
+Serbia,126
+Croatia,124
+Wales,124
+Nigeria,120
+Ghana,113
+Greece,102
+Ivory Coast,100
+Czech Republic,100
+Cameroon,90
+Morocco,85
+Paraguay,84
+Northern Ireland,80
+Russia,79
+Ukraine,73
+South Africa,71
+Venezuela,67
+Finland,66
+Canada,62
+Bosnia Herzegovina,61
+Algeria,60
+Slovenia,55
+Slovakia,54
+Romania,54
+DR Congo,52
+Iceland,47
+New Zealand,44
+Mali,43
+Ecuador,43
+Albania,40
+Hungary,37
+Peru,37
+Kosovo,33
+Bulgaria,32
+Jamaica,32
+Tunisia,32
+Guinea,31
+Egypt,31
+India,30
+Costa Rica,30
+Bolivia,29
+Georgia,26
+Congo,25
+Montenegro,23
+FYR Macedonia,19
+Cape Verde,19
+Iran,17
+Honduras,16
+Burkina Faso,16
+Gambia,15
+Angola,15
+Gabon,15
+Panama,15
+Guinea Bissau,15
+Benin,15
+Curacao,14
+Israel,14
+Zimbabwe,13
+Estonia,13
+Togo,12
+Madagascar,12
+Armenia,10
+Haiti,10
+Kenya,10
+Zambia,9
+Syria,9
+Lithuania,8
+Luxembourg,8
+Cyprus,8
+Iraq,7
+Latvia,6
+Uganda,6
+Comoros,6
+Sierra Leone,6
+Equatorial Guinea,5
+El Salvador,5
+Azerbaijan,5
+Faroe Islands,5
+Thailand,5
+Moldova,5
+Suriname,4
+Trinidad & Tobago,4
+Afghanistan,4
+Belarus,4
+Montserrat,4
+Korea DPR,4
+Libya,4
+Cuba,4
+Mauritania,4
+Kazakhstan,4
+Mozambique,4
+Antigua & Barbuda,4
+Sudan,3
+Barbados,3
+St Kitts Nevis,3
+Liechtenstein,3
+Namibia,3
+Guatemala,3
+Guyana,3
+Central African Rep.,3
+Tanzania,3
+Niger,3
+Dominican Republic,2
+Hong Kong,2
+Nicaragua,2
+Bermuda,2
+Chad,2
+Burundi,2
+Eritrea,2
+Philippines,2
+Uzbekistan,2
+Botswana,1
+United Arab Emirates,1
+Belize,1
+Andorra,1
+São Tomé & Príncipe,1
+South Sudan,1
+Ethiopia,1
+Fiji,1
+New Caledonia,1
+Oman,1
+Palestine,1
+Mauritius,1
+Malta,1
+Puerto Rico,1
+Qatar,1
+Liberia,1
+Rwanda,1
+Lebanon,1
+Kuwait,1
+Indonesia,1
+Guam,1
+St Lucia,1
+Grenada,1
+Jordan,1

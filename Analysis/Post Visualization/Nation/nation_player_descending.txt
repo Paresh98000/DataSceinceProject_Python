@@ -1,0 +1,80 @@
+England,1662
+Germany,1198
+Spain,1072
+Argentina,937
+France,914
+Brazil,827
+Italy,702
+Colombia,618
+Japan,478
+Netherlands,453
+Sweden,397
+China PR,392
+Chile,391
+Republic of Ireland,368
+Mexico,366
+United States,353
+Poland,350
+Norway,341
+Saudi Arabia,340
+Denmark,336
+Korea Republic,335
+Portugal,322
+Turkey,303
+Austria,298
+Scotland,286
+Belgium,260
+Australia,236
+Switzerland,220
+Uruguay,149
+Senegal,130
+Wales,129
+Croatia,126
+Nigeria,121
+Ghana,114
+Greece,102
+Czech Republic,100
+Cameroon,90
+Paraguay,85
+Northern Ireland,80
+Russia,79
+Ukraine,73
+South Africa,71
+Venezuela,67
+Canada,64
+Bosnia Herzegovina,61
+Algeria,60
+Slovenia,55
+Slovakia,54
+DR Congo,52
+Iceland,47
+New Zealand,44
+Mali,43
+Albania,40
+Hungary,38
+Peru,37
+Kosovo,33
+Bulgaria,32
+Guinea,31
+India,30
+Georgia,26
+Congo,25
+Montenegro,23
+FYR Macedonia,20
+Cape Verde,19
+Iran,17
+Burkina Faso,16
+Benin,15
+Curacao,14
+Zimbabwe,13
+Togo,12
+Armenia,10
+Zambia,9
+Lithuania,8
+Iraq,7
+Latvia,6
+Moldova,5
+Belarus,4
+Guyana,3
+Eritrea,2
+Belize,1

@@ -1,0 +1,122 @@
+India,0
+Indonesia,1
+South Sudan,2
+Hong Kong,3
+Mauritius,4
+Afghanistan,5
+Mauritania,8
+New Caledonia,9
+Namibia,10
+Barbados,11
+Montserrat,12
+Kuwait,13
+Liechtenstein,15
+Sudan,16
+Korea DPR,17
+Uzbekistan,18
+Libya,19
+Tanzania,21
+Lithuania,23
+Chad,24
+Bolivia,25
+Comoros,27
+Philippines,29
+St Kitts Nevis,30
+Zambia,31
+Luxembourg,32
+Bermuda,33
+Trinidad & Tobago,36
+Haiti,39
+Iraq,41
+Cyprus,42
+Mozambique,44
+Panama,46
+Estonia,50
+Moldova,56
+Central African Rep.,57
+Equatorial Guinea,86
+Zimbabwe,89
+Madagascar,93
+Guinea Bissau,95
+Georgia,109
+Congo,111
+Kenya,112
+Angola,115
+Honduras,120
+Gambia,122
+Curacao,124
+Benin,130
+Dominican Republic,142
+FYR Macedonia,158
+South Africa,175
+Iran,192
+Burkina Faso,193
+New Zealand,196
+Cape Verde,219
+Armenia,220
+Kosovo,222
+Canada,244
+Hungary,252
+Jamaica,262
+Peru,275
+Albania,284
+Tunisia,295
+Montenegro,301
+Finland,349
+Guinea,379
+Iceland,383
+Gabon,404
+Costa Rica,407
+Venezuela,415
+Ukraine,437
+Romania,441
+Mali,459
+Ecuador,478
+Egypt,523
+Northern Ireland,546
+Slovakia,594
+Slovenia,612
+DR Congo,716
+Paraguay,775
+Australia,791
+Czech Republic,795
+Greece,796
+Bosnia Herzegovina,907
+Cameroon,987
+Korea Republic,1027
+Algeria,1085
+Ghana,1096
+Norway,1139
+Nigeria,1193
+China PR,1225
+Morocco,1262
+Ivory Coast,1271
+United States,1503
+Wales,1560
+Sweden,1618
+Japan,1651
+Serbia,1689
+Saudi Arabia,1740
+Poland,1796
+Republic of Ireland,1835
+Senegal,1867
+Chile,2024
+Switzerland,2234
+Scotland,2281
+Austria,2285
+Denmark,2323
+Uruguay,2534
+Croatia,2732
+Turkey,3164
+Mexico,3230
+Colombia,3347
+Netherlands,4546
+Portugal,4608
+Belgium,4805
+Italy,9462
+Argentina,10778
+Germany,11548
+France,12845
+Brazil,14703
+England,16526
+Spain,17498

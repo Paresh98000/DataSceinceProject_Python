@@ -1,0 +1,74 @@
+Q.5 Nation wise best player using overall column.
+Q.6 Maximum Overall performance by nation
+
+ --- Nation is ends here ---
+
+ --- Clubs ---
+
+Q.1 Total clubs in dataset.
+Q.2 How many are in club and how many are not in any club.
+Q.3 Club wise player count
+Q.4 Club average performance
+Q.5 Club total wage
+
+ --- Wage ---
+
+Q.1 Total wage invested in fifa players
+Q.2 Wage vs player performance
+
+ --- Skill Moves ---
+	
+Q.1 Most skilled players in world top 10
+Q.2 Nationality of max skilled players
+Q.3 Most skilled clubs
+Q.4 Most skilled Nations
+Q.5 Most poor skills club, player, Nation
+
+ --- Face ---
+
+Q.1 Total Face types
+Q.2 ration of all players face type
+
+ --- Position ---
+
+Q.1 Total positions
+Q.2 Player count at particular position
+Q.3 Ratio of all positions in world players
+Q.4 Total wage invested in each position
+
+ --- Jersey Number ---
+
+Q.1 Total count of different Jersey number of player 
+Q.2 Player count in each number
+
+ --- Loaned ---
+
+Q.1 Total Loaned players in world
+Q.2 Nation wise loaned
+
+ --- Contact ---
+
+Q.1 top 10 best players
+Q.2 top nation
+Q.3 top club
+
+ --- Height ---
+
+Q.1 Max Height
+Q.2 Max height each nation
+
+ --- Weight ---
+
+Q.1 Max Weight
+Q.2 Max Weight each nation
+
+ --- Performance ---
+
+Q.1 total postions
+Q.2 best 10 players in each position
+Q.3 Total players in each position
+
+ --- Task ---
+
+Q.1 Total tasks
+Q.2 Total players in each task

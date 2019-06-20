@@ -1,0 +1,164 @@
+Afghanistan,63
+Albania,81
+Algeria,85
+Andorra,62
+Angola,78
+Antigua & Barbuda,69
+Argentina,94
+Armenia,83
+Australia,79
+Austria,85
+Azerbaijan,67
+Barbados,66
+Belarus,75
+Belgium,91
+Belize,60
+Benin,75
+Bermuda,70
+Bolivia,74
+Bosnia Herzegovina,86
+Botswana,56
+Brazil,92
+Bulgaria,76
+Burkina Faso,78
+Burundi,71
+Cameroon,80
+Canada,75
+Cape Verde,79
+Central African Rep.,82
+Chad,73
+Chile,85
+China PR,76
+Colombia,88
+Comoros,73
+Congo,75
+Costa Rica,87
+Croatia,91
+Cuba,76
+Curacao,74
+Cyprus,74
+Czech Republic,82
+DR Congo,82
+Denmark,88
+Dominican Republic,80
+Ecuador,81
+Egypt,88
+El Salvador,70
+England,89
+Equatorial Guinea,77
+Eritrea,72
+Estonia,77
+Ethiopia,64
+FYR Macedonia,77
+Faroe Islands,67
+Fiji,71
+Finland,84
+France,89
+Gabon,88
+Gambia,76
+Georgia,76
+Germany,90
+Ghana,82
+Greece,85
+Grenada,63
+Guam,67
+Guatemala,68
+Guinea,83
+Guinea Bissau,76
+Guyana,65
+Haiti,73
+Honduras,75
+Hong Kong,62
+Hungary,80
+Iceland,82
+India,67
+Indonesia,56
+Iran,77
+Iraq,72
+Israel,80
+Italy,89
+Ivory Coast,82
+Jamaica,81
+Japan,81
+Jordan,63
+Kazakhstan,68
+Kenya,80
+Korea DPR,71
+Korea Republic,84
+Kosovo,76
+Kuwait,70
+Latvia,70
+Lebanon,66
+Liberia,68
+Libya,72
+Liechtenstein,71
+Lithuania,71
+Luxembourg,71
+Madagascar,76
+Mali,80
+Malta,61
+Mauritania,67
+Mauritius,68
+Mexico,82
+Moldova,74
+Montenegro,83
+Montserrat,67
+Morocco,86
+Mozambique,75
+Namibia,67
+Netherlands,86
+New Caledonia,71
+New Zealand,77
+Nicaragua,66
+Niger,67
+Nigeria,80
+Northern Ireland,75
+Norway,83
+Oman,72
+Palestine,66
+Panama,72
+Paraguay,80
+Peru,79
+Philippines,73
+Poland,90
+Portugal,94
+Puerto Rico,63
+Qatar,63
+Republic of Ireland,80
+Romania,80
+Russia,82
+Rwanda,63
+Saudi Arabia,74
+Scotland,82
+Senegal,87
+Serbia,85
+Sierra Leone,74
+Slovakia,87
+Slovenia,90
+South Africa,76
+South Sudan,60
+Spain,91
+St Kitts Nevis,71
+St Lucia,64
+Sudan,65
+Suriname,70
+Sweden,85
+Switzerland,83
+Syria,78
+São Tomé & Príncipe,72
+Tanzania,76
+Thailand,68
+Togo,79
+Trinidad & Tobago,74
+Tunisia,77
+Turkey,81
+Uganda,70
+Ukraine,82
+United Arab Emirates,77
+United States,79
+Uruguay,91
+Uzbekistan,75
+Venezuela,81
+Wales,88
+Zambia,73
+Zimbabwe,78

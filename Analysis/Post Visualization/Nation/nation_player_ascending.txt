@@ -1,0 +1,80 @@
+Belize,1
+Eritrea,2
+Guyana,3
+Belarus,4
+Moldova,5
+Latvia,6
+Iraq,7
+Lithuania,8
+Zambia,9
+Armenia,10
+Togo,12
+Zimbabwe,13
+Curacao,14
+Benin,15
+Burkina Faso,16
+Iran,17
+Cape Verde,19
+FYR Macedonia,20
+Montenegro,23
+Congo,25
+Georgia,26
+India,30
+Guinea,31
+Bulgaria,32
+Kosovo,33
+Peru,37
+Hungary,38
+Albania,40
+Mali,43
+New Zealand,44
+Iceland,47
+DR Congo,52
+Slovakia,54
+Slovenia,55
+Algeria,60
+Bosnia Herzegovina,61
+Canada,64
+Venezuela,67
+South Africa,71
+Ukraine,73
+Russia,79
+Northern Ireland,80
+Paraguay,85
+Cameroon,90
+Czech Republic,100
+Greece,102
+Ghana,114
+Nigeria,121
+Croatia,126
+Wales,129
+Senegal,130
+Uruguay,149
+Switzerland,220
+Australia,236
+Belgium,260
+Scotland,286
+Austria,298
+Turkey,303
+Portugal,322
+Korea Republic,335
+Denmark,336
+Saudi Arabia,340
+Norway,341
+Poland,350
+United States,353
+Mexico,366
+Republic of Ireland,368
+Chile,391
+China PR,392
+Sweden,397
+Netherlands,453
+Japan,478
+Colombia,618
+Italy,702
+Brazil,827
+France,914
+Argentina,937
+Spain,1072
+Germany,1198
+England,1662
